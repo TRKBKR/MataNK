@@ -10,4 +10,5 @@ It was a game To Create Anonymos Chat Inside a public access Server Anyone Can r
 2 - Edit Line 1,2,4 inside config.js With U'r Own website url password and UserName
 3 - Open index.html in U'r Computer And Chat
 
+### Screen ###
 ![Screenshot](money.png)
