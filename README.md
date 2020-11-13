@@ -4,7 +4,7 @@ Anonymous Chat With javascript client side encrypt/decrypt
 ## Why ?
 It was a game To Create Anonymos Chat Inside a public access Server Anyone Can read files/databases
 
-> Guess What I Lost Cause I was Playing with Ma self
+> Guess What. I Lost Cause I was Playing with Ma self :|
 
 ## How To use
 
